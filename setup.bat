@@ -6,4 +6,5 @@ call .\activate
 cd ..
 cd ..
 pip install -r requirement.txt
-cd backend
+cd frontend
+npm install
